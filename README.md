@@ -21,15 +21,14 @@ The Original Script Output (2018):
 
 The Refactored Script Output (2018):
 
-![VBA_Challenge_2018](https://github.com/stacychandisingh/stock-analysis/blob/master/images/VBA_Challenge_2018.PNG)
-
+![VBA_Challenge_2018]()
 **Images for Deliverable 1 (2018 Output):**
 
-![VBA_Challenge_2018](https://github.com/stacychandisingh/stock-analysis/blob/master/images/VBA_Challenge_2018.PNG)
+![VBA_Challenge_2018]()
 
 **Images for Deliverable 1 (2017 Output):**
 
-![2017](https://github.com/stacychandisingh/stock-analysis/blob/master/images/VBA_Challenge_2017.PNG)
+![2017]()
 
 ### Summary
 In a summary statement, address the following questions:
