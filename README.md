@@ -16,7 +16,7 @@ The execution time of the original script proved to be shorter in time when comp
 
 The Original Script Output:
 
-![original_script](images/resources/Original Script_2018.PNG)
+![original_script](https://github.com/stacychandisingh/stock-analysis/blob/master/images/Original%20Script_2018.PNG)
 
 
 The Refactored Script Output:
