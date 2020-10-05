@@ -15,20 +15,20 @@ The execution time of the original script proved to be shorter in time when comp
 
 The Original Script Output:
 
-![original_script](resources/Original Script_2018)
+![original_script](resources/Original Script_2018.png)
 
 
 The Refactored Script Output:
 
-![refactored](resources/VBA_Challenge_2018)
+![refactored](resources/VBA_Challenge_2018.png)
 
 Images for Deliverable 1 (2018 Output):
 
-![refactored](resources/VBA_Challenge_2018)
+![refactored](resources/VBA_Challenge_2018.png)
 
 Images for Deliverable 1 (2017 Output):
 
-![2017](resources/VBA_Challenge_2017)
+![2017](resources/VBA_Challenge_2017.png)
 
 ### Summary
 In a summary statement, address the following questions:
@@ -40,11 +40,11 @@ In a summary statement, address the following questions:
 	The pros which apply may to refactoring the original VBA script include a faster code execution time upon running the refactored script and it may be easier to read with adequate comments included. The cons which apply to this refactoring exercise using the original VBA script is that a longer time was taken on finding ways of making the code more efficient by using the correct keywords; there is a chance that a programmer may lose the intended purposes of the code while refactoring. For this event, the refactoring exercise made the program's execution time longer than the original script execution time!
 	
 
-	A specific challenge I encountered was trying to remove the colored conditional formatting to the *Total Daily Volume* column even when the code seems clear as seen in the subsequent image: ![If_Statement](resources/If_Statement_Conditional Loop)
+	A specific challenge I encountered was trying to remove the colored conditional formatting to the *Total Daily Volume* column even when the code seems clear as seen in the subsequent image: ![If_Statement](resources/If_Statement_Conditional Loop.png)
   
   The following image shows a portion of the refactored code which generated the correct total daily volume and percentage returns by setting the tickerIndex to zero before looping over the rows; the image also shows the creation of arrays by initializing the required variables by using the keyword, **Dim**:
   
-  ![code](resources/Code Image)
+  ![code](resources/Code Image.png)
   
   
   
