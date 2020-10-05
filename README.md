@@ -47,7 +47,7 @@ A specific challenge I encountered was trying to remove the colored conditional 
   
 The following image shows a portion of the refactored code which generated the correct total daily volume and percentage returns by setting the tickerIndex to zero before looping over the rows; the image also shows the creation of arrays by initializing the required variables by using the keyword, **Dim**:
   
-  ![code](https://github.com/stacychandisingh/stock-analysis/blob/master/Code%20Image.PNG)
+  ![code](https://github.com/stacychandisingh/stock-analysis/blob/master/images/Code%20Image.PNG)
   
   
   
