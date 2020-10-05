@@ -43,7 +43,7 @@ The advantages of refactoring code is that it may be easier to understand, read,
 The pros which apply may to refactoring the original VBA script include a faster code execution time upon running the refactored script and it may be easier to read with adequate comments included. The cons which apply to this refactoring exercise using the original VBA script is that a longer time was taken on finding ways of making the code more efficient by using the correct keywords; there is a chance that a programmer may lose the intended purposes of the code while refactoring. For this event, the refactoring exercise made the program's execution time longer than the original script execution time!
 	
 
-A specific challenge I encountered was trying to remove the colored conditional formatting to the *Total Daily Volume* column even when the code seems clear as seen in the subsequent image: ![If_Statement](resources/If_Statement_Conditional Loop.png)
+A specific challenge I encountered was trying to remove the colored conditional formatting to the *Total Daily Volume* column even when the code seems clear as seen in the subsequent image: ![If_Statement](https://github.com/stacychandisingh/stock-analysis/blob/master/images/If_Statement_Conditional%20Loop.PNG)
   
 The following image shows a portion of the refactored code which generated the correct total daily volume and percentage returns by setting the tickerIndex to zero before looping over the rows; the image also shows the creation of arrays by initializing the required variables by using the keyword, **Dim**:
   
