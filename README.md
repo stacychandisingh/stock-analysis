@@ -9,9 +9,10 @@ The objective of this project is to explore green energy stock performance by an
 
 ### Results
 **Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script.**
-When comparing stock performance between the years 2017 and 2018, it was observed that stocks performed better in 2017 than in 2018. In 2018, only two stocks performed positively. While in In 2017, only one stock of the 12 stocks dropped in performance.
+
+	When comparing stock performance between the years 2017 and 2018, it was observed that stocks performed better in 2017 than in 2018. In 2018, only two stocks performed positively. While in In 2017, only one stock of the 12 stocks dropped in performance.
  
-The execution time of the original script proved to be shorter in time when compared to the refactored script; the refactored script took a longer time to execute. Typically, a refactored script generally has a shorter execution time. The following images show the short and long execution times of the original script and the refactored script for 2018, respectively:
+	The execution time of the original script proved to be shorter in time when compared to the refactored script; the refactored script took a longer time to execute. Typically, a refactored script generally has a shorter execution time. The following images show the short and long execution times of the original script and the refactored script for 2018, respectively:
 
 The Original Script Output:
 
