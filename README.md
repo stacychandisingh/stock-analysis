@@ -21,7 +21,7 @@ The Original Script Output (2018):
 
 The Refactored Script Output (2018):
 
-![VBA_Challenge_2018](resources/VBA_Challenge_2018.png)
+![VBA_Challenge_2018](stock-analysis/blob/master/images/VBA_Challenge_2018.PNG)
 
 **Images for Deliverable 1 (2018 Output):**
 
