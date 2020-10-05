@@ -16,7 +16,7 @@ The execution time of the original script proved to be shorter in time when comp
 
 The Original Script Output:
 
-![original_script](resources/Original Script_2018.png)
+![original_script](images/resources/Original Script_2018.PNG)
 
 
 The Refactored Script Output:
