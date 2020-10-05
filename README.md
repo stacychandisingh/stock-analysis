@@ -34,11 +34,13 @@ Images for Deliverable 1 (2017 Output):
 ### Summary
 In a summary statement, address the following questions:
 #### What are the advantages or disadvantages of refactoring code?
-	The advantages of refactoring code is that it may be easier to understand, read, and maintain. Refactored code may also take a shorter time to execute upon running the code; the program runs faster. Disadvantages of refactoring code may include that it is time consuming to edit resulting in a longer process and there is a chance mistakes are made when refactoring the code and even more time is spent on resolving this new issue.
+	
+The advantages of refactoring code is that it may be easier to understand, read, and maintain. Refactored code may also take a shorter time to execute upon running the code; the program runs faster. Disadvantages of refactoring code may include that it is time consuming to edit resulting in a longer process and there is a chance mistakes are made when refactoring the code and even more time is spent on resolving this new issue.
 
 
 #### How do these pros and cons apply to refactoring the original VBA script?
-	The pros which apply may to refactoring the original VBA script include a faster code execution time upon running the refactored script and it may be easier to read with adequate comments included. The cons which apply to this refactoring exercise using the original VBA script is that a longer time was taken on finding ways of making the code more efficient by using the correct keywords; there is a chance that a programmer may lose the intended purposes of the code while refactoring. For this event, the refactoring exercise made the program's execution time longer than the original script execution time!
+
+The pros which apply may to refactoring the original VBA script include a faster code execution time upon running the refactored script and it may be easier to read with adequate comments included. The cons which apply to this refactoring exercise using the original VBA script is that a longer time was taken on finding ways of making the code more efficient by using the correct keywords; there is a chance that a programmer may lose the intended purposes of the code while refactoring. For this event, the refactoring exercise made the program's execution time longer than the original script execution time!
 	
 
 	A specific challenge I encountered was trying to remove the colored conditional formatting to the *Total Daily Volume* column even when the code seems clear as seen in the subsequent image: ![If_Statement](resources/If_Statement_Conditional Loop.png)
