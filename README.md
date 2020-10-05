@@ -14,20 +14,20 @@ When comparing stock performance between the years 2017 and 2018, it was observe
  
 The execution time of the original script proved to be shorter in time when compared to the refactored script; the refactored script took a longer time to execute. Typically, a refactored script generally has a shorter execution time. The following images show the short and long execution times of the original script and the refactored script for 2018, respectively:
 
-The Original Script Output:
+The Original Script Output (2018):
 
 ![original_script](https://github.com/stacychandisingh/stock-analysis/blob/master/images/Original%20Script_2018.PNG)
 
 
-The Refactored Script Output:
+The Refactored Script Output (2018):
 
 ![VBA_Challenge_2018](resources/VBA_Challenge_2018.png)
 
-Images for Deliverable 1 (2018 Output):
+**Images for Deliverable 1 (2018 Output):**
 
 ![VBA_Challenge_2018](resources/VBA_Challenge_2018.png)
 
-Images for Deliverable 1 (2017 Output):
+**Images for Deliverable 1 (2017 Output):**
 
 ![2017](resources/VBA_Challenge_2017.png)
 
